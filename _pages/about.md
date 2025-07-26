@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Keyan Zhou（周柯言）, a second year master student at the Artificial Intelligence Research Institute of Soochow University, under the supervision of [Prof. Juntao Li](https://lijuntaopku.github.io) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io).
+Hello, I am Keyan Zhou(周柯言), a second year master student at the Artificial Intelligence Research Institute of Soochow University, under the supervision of [Prof. Juntao Li](https://lijuntaopku.github.io) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io).
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
