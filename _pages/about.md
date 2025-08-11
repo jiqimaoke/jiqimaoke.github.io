@@ -21,12 +21,11 @@ Hello, I am Keyan Zhou(周柯言), a second year master student at the Artificia
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
-At present, I am working as a Multi-modal LLM R&D Intern at ByteDance, focusing on enhancing domain-specific reasoning capabilities of multi-modal large language models.
+At present, I am working as a Multi-modal LLM R&D Intern at ByteDance, focusing on enhancing domain-specific reasoning capabilities of LVLMs.
 
-🤔 My research interest includes knowledge and reasoning 
-mechanism in LLM/LVLM, especially in scenarios of **Long Context Modeling and Generation**. Specifically, I focus on the following aspects:
-- **Knowledge**: Investigating how LLMs/LVLMs internalize, update, and contextualize knowledge across extended inputs—where harmful, conflicting, or outdated information may arise.
-- **Reasoning**: Exploring how LLMs/LVLMs can iteratively refine their reasoning by cross-verifying internal knowledge with external information, reducing hallucinations and improving reliability.
+🤔 My research interests center on the concept of knowledge in LLMs/LVLMs, particularly within **Long Contexts and Long Generation**. Specifically, I focus on the following aspects:
+- **Knowledge Dynamics**: Exploring mechanisms for LLMs/LVLMs to dynamically integrate **internal knowledge with external information**. Resolving knowledge conflicts, mitigating outdated information, and addressing safety risks to improve model trustworthiness.
+- **Reliable Reasoning**: Focusing on how LLMs/LVLMs can iteratively refine their reasoning by **cross-verifying and self-correct knowledge from multi-sources** to reduce hallucinations and improve reliability.
 
 🤝 **I'm looking for a PhD position in 2026 Fall. Please email me at *jonaszhou01@gmail.com* if there is a potential opportunity!**
 
