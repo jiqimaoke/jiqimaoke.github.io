@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Keyan Zhou(周柯言), a second year master student at the Artificial Intelligence Research Institute of Soochow University, under the supervision of [Prof. Juntao Li](https://lijuntaopku.github.io) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io).
+Hello, I am Keyan Zhou(周柯言), a third year master student at the Artificial Intelligence Research Institute of Soochow University, under the supervision of [Prof. Juntao Li](https://lijuntaopku.github.io) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io).
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
-At present, I am working as a Multi-modal LLM R&D Intern at ByteDance, focusing on enhancing domain-specific reasoning capabilities of LVLMs.
-
-🤔 My research interests center on the concept of knowledge in LLMs/LVLMs, particularly within **Long Contexts and Long Generation**. Specifically, I focus on the following aspects:
-- **Knowledge Dynamics**: Exploring mechanisms for LLMs/LVLMs to dynamically integrate **internal knowledge with external information**. Resolving knowledge conflicts, mitigating outdated information, and addressing safety risks to improve model trustworthiness.
-- **Reliable Reasoning**: Focusing on how LLMs/LVLMs can iteratively refine their reasoning by **cross-verifying and self-correct knowledge from multi-sources** to reduce hallucinations and improve reliability.
+My research focuses on building **trustworthy LLMs/LVLMs** by enhancing reliability at two critical stages of inference:
+-  **Faithfulness in Context (Prefill Stage)**: Ensure the model's understanding is faithfully grounded in the external context during the prefilling stage. My work has revealed how models struggle with attribution in text and multimodal scenarios **(L-CiteEval, MMLongCite)**.
+- **Reliability in Generation (Decode Stage)**: Improve the verifiability and safety of the model's reasoning process during the decoding stage. I have designed a self-detoxification framework dedicated to enhancing model safety **(CMD)**.
 
 🤝 **I'm looking for a PhD position in 2026 Fall. Please email me at *jonaszhou01@gmail.com* if there is a potential opportunity!**
 
@@ -37,6 +35,21 @@ At present, I am working as a Multi-modal LLM R&D Intern at ByteDance, focusing 
 # 📝 Publications 
 
 **\* denotes equal contribution.**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mmlongcite.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](https://arxiv.org/pdf/2510.13276)
+
+<strong>Keyan Zhou</strong>, Zecheng Tang, Lingfeng Ming, Guanghao Zhou, Qiguang Chen, Dan Qiao, Zheming Yang, Libo Qin, Minghui Qiu, Juntao Li, Min Zhang
+
+- This work rigorously evaluates multimodal models' ability to utilize information in long-context settings through citation generation tasks and is a comprehensive multimodal benchmark covering images, videos, and documents. The findings highlight a significant gap between the correctness of their responses and their faithful citation of the context.
+
+[![](https://img.shields.io/badge/GitHub-Code-blue?logo=github&logoColor=white)](https://github.com/jiqimaoke/MMLongCite)
+[![](https://img.shields.io/badge/🤗 HuggingFace-Data-red)](https://huggingface.co/datasets/Jonaszky123/MMLongCite)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/l-citeeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,5 +131,5 @@ Zecheng Tang, Haitian Wang, Quantong Qiu, Baibei Ji, Ruoxi Sun, <strong>Keyan Zh
 - *2024.10*, [NICE-NLP, Presentation on Model Safety, EMNLP 2024](https://www.bilibili.com/video/BV1kVykYgEUe/?spm_id_from=333.1387.search.video_card.click)
 
 # 💻 Internships
-- *2025.06 - current*, Multi-modal LLM R&D Intern, ByteDance, Shanghai, China.
-- *2025.03 - 2025.05*, Long-Context LLM Research Intern, MiraclePlus, Shanghai, China.
+- *2025.06 - 2025.11*, Multi-modal LLM R&D Intern, ByteDance, Shanghai, China.
+- *2025.03 - 2025.05*, Research Intern, MiraclePlus, Shanghai, China.
