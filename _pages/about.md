@@ -22,7 +22,7 @@ Hello, I am Keyan Zhou(周柯言), a third year master student at the Artificial
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
 My research focuses on building **trustworthy LLMs/LVLMs** by enhancing reliability at two critical stages of inference:
--  **Faithfulness in Context (Prefill Stage)**: Ensure the model's understanding is faithfully grounded in the external context during the prefilling stage. My work has revealed how models struggle with attribution in text and multimodal scenarios **(L-CiteEval, MMLongCite)**.
+-  **Faithfulness in Context (Prefill Stage)**: Ensure that the model's understanding is faithfully grounded in the context during the prefilling stage. My work has revealed how models struggle with attribution in text **(L-CiteEval)** and multimodal **(MMLongCite)** scenarios.
 - **Reliability in Generation (Decode Stage)**: Improve the verifiability and safety of the model's reasoning process during the decoding stage. I have designed a self-detoxification framework dedicated to enhancing model safety **(CMD)**.
 
 🤝 **I'm looking for a PhD position in 2026 Fall. Please email me at *jonaszhou01@gmail.com* if there is a potential opportunity!**
