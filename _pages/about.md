@@ -36,7 +36,7 @@ My research focuses on building **trustworthy LLMs/LVLMs** by enhancing reliabil
 
 **\* denotes equal contribution.**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mmlongcite.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/mmlongcite.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](https://arxiv.org/pdf/2510.13276)
