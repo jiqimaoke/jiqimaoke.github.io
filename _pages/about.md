@@ -131,5 +131,6 @@ Zecheng Tang, Haitian Wang, Quantong Qiu, Baibei Ji, Ruoxi Sun, <strong>Keyan Zh
 - *2024.10*, [NICE-NLP, Presentation on Model Safety, EMNLP 2024](https://www.bilibili.com/video/BV1kVykYgEUe/?spm_id_from=333.1387.search.video_card.click)
 
 # 💻 Internships
+- *2025.12 - Now*, Research Intern, Tencent Hunyuan, Beijing, China.
 - *2025.06 - 2025.11*, Multi-modal LLM R&D Intern, ByteDance, Shanghai, China.
 - *2025.03 - 2025.05*, Research Intern, MiraclePlus, Shanghai, China.
