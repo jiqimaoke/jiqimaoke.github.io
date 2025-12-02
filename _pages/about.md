@@ -45,7 +45,7 @@ My research focuses on building **trustworthy LLMs/LVLMs** by enhancing reliabil
 
 - This work rigorously evaluates multimodal models' ability to utilize information in long-context settings through citation generation tasks and is a comprehensive multimodal benchmark covering images, videos, and documents. The findings highlight a significant gap between the correctness of their responses and their faithful citation of the context.
 
-[![](https://img.shields.io/badge/GitHub-Code-blue?logo=github&logoColor=white)](https://github.com/jiqimaoke/MMLongCite)
+[![](https://img.shields.io/badge/GitHub-Code-blue?logo=github&logoColor=white)](https://github.com/bytedance/MMLongCite)
 [![](https://img.shields.io/badge/🤗 HuggingFace-Data-red)](https://huggingface.co/datasets/Jonaszky123/MMLongCite)
 
 </div>
