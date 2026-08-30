@@ -17,15 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Keyan Zhou(周柯言), a third year master student at the Artificial Intelligence Research Institute of Soochow University, under the supervision of [Prof. Juntao Li](https://lijuntaopku.github.io) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io).
+Hello, I am Keyan Zhou(周柯言), a PhD student at Fudan University and Shanghai Innovation Institute, under the supervision of [Prof. Ziwei He](https://scholar.google.com/citations?hl=en&user=3ii0orgAAAAJ) and [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html).
 
-Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
-
-My research focuses on building **trustworthy LLMs/LVLMs** by enhancing reliability at two critical stages of inference:
--  **Faithfulness in Context (Prefill Stage)**: Ensure that the model's understanding is faithfully grounded in the context during the prefilling stage. My work has revealed how models struggle with attribution in text **(L-CiteEval)** and multimodal **(MMLongCite)** scenarios.
-- **Reliability in Generation (Decode Stage)**: Improve the verifiability and safety of the model's reasoning process during the decoding stage. I have designed a self-detoxification framework dedicated to enhancing model safety **(CMD)**.
-
-🤝 **I'm looking for a PhD position in 2026 Fall. Please email me at *jonaszhou01@gmail.com* if there is a potential opportunity!**
+My research focuses on long-context modeling, with an emphasis on improving how language models learn from and utilize long-form contexts. Specifically, I explore effective data strategies for long-context pre-training and develop post-training methods to enhance models’ retrieval and reasoning capabilities in long-context scenarios.
 
 
 <!-- # 🔥 News
@@ -124,13 +118,14 @@ Zecheng Tang, Haitian Wang, Quantong Qiu, Baibei Ji, Ruoxi Sun, <strong>Keyan Zh
 - Mathematical Contest in Modeling(MCM) Finalist Winner
 
 # 📖 Educations
-- *2023.09 - current*, Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2026.09 - Now*, PhD candidate, Fudan University & Shanghai Innovation Institute, Shanghai.
+- *2023.09 - 2026.06*, Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 - *2019.09 - 2023.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 
 # 💬 Invited Talks
 - *2024.10*, [NICE-NLP, Presentation on Model Safety, EMNLP 2024](https://www.bilibili.com/video/BV1kVykYgEUe/?spm_id_from=333.1387.search.video_card.click)
 
 # 💻 Internships
-- *2025.12 - Now*, Research Intern, Tencent Hunyuan, Beijing, China.
+- *2025.12 - 2026.02*, Research Intern, Tencent, Beijing, China.
 - *2025.06 - 2025.11*, Multi-modal LLM R&D Intern, ByteDance, Shanghai, China.
 - *2025.03 - 2025.05*, Research Intern, MiraclePlus, Shanghai, China.
